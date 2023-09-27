@@ -7,4 +7,6 @@ Lecture notes 02: [Linear, Time-Invarient Systems](Digital_Signal_Processing_Cla
 
 Lecture notes 03: [Convolution and it's Properties](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_03__Convolution_and_its_Properties.pdf)
 
+Lecture notes 04: [The Fourier Series](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_04__The_Fourier_Series.pdf)
+
 
