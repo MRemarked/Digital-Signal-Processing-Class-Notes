@@ -9,4 +9,8 @@ Lecture notes 03: [Convolution and it's Properties](Digital_Signal_Processing_Cl
 
 Lecture notes 04: [The Fourier Series](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_04__The_Fourier_Series.pdf)
 
+LEcture notes 05: [The Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_05__The_Fourier_Transform.pdf)
+
+
+
 
