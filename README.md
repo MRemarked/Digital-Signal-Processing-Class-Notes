@@ -11,6 +11,8 @@ Lecture notes 04: [The Fourier Series](Digital_Signal_Processing_Class_Notes/Dig
 
 LEcture notes 05: [The Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_05__The_Fourier_Transform.pdf)
 
+Lecture notes 06: [Frequency Response](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_06__Frequency_Response.pdf)
+
 
 
 
