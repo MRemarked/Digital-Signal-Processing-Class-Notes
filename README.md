@@ -13,6 +13,8 @@ LEcture notes 05: [The Fourier Transform](Digital_Signal_Processing_Class_Notes/
 
 Lecture notes 06: [Frequency Response](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_06__Frequency_Response.pdf)
 
+Lecture notes 07: [The Discrete-Time Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_07__The_Discrete-Time_Fourier_Transform.pdf)
+
 
 
 
