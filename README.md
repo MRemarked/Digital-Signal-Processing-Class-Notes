@@ -15,6 +15,9 @@ Lecture notes 06: [Frequency Response](Digital_Signal_Processing_Class_Notes/Dig
 
 Lecture notes 07: [The Discrete-Time Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_07__The_Discrete-Time_Fourier_Transform.pdf)
 
+Lecture notes 08: [Introduction to the Z-Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_08__Introduction_to_the_Z-Transform.pdf)
+
+
 
 
 
