@@ -19,6 +19,9 @@ Lecture notes 08: [Introduction to the Z-Transform](Digital_Signal_Processing_Cl
 
 Lecture notes 09: [Inverse Z-Transform; Poles and Zeros](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_09__Inverse_Z-Transform;_Poles_and_Zeros.pdf)
 
+Lecture notes 10: [The Discrete Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_10__The_Discrete_Fourier_Transform.pdf)
+
+
 
 
 
