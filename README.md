@@ -21,6 +21,10 @@ Lecture notes 09: [Inverse Z-Transform; Poles and Zeros](Digital_Signal_Processi
 
 Lecture notes 10: [The Discrete Fourier Transform](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_10__The_Discrete_Fourier_Transform.pdf)
 
+Lecture notes 11: [Radix-2 Fast Fourier Transforms](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_11;_Radix-2_Fast_Fourier_Transforms.pdf)
+
+
+
 
 
 
