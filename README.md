@@ -23,7 +23,7 @@ Lecture notes 10: [The Discrete Fourier Transform](Digital_Signal_Processing_Cla
 
 Lecture notes 11: [Radix-2 Fast Fourier Transforms](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_11;_Radix-2_Fast_Fourier_Transforms.pdf)
 
-
+Lecture notes 12: [The Cooley-Tukey and Good-Thomas FFTs (incomplete)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_12;_The_Cooley-Tukey_and_Good-Thomas_FFTs_(Incomplete).pdf)
 
 
 
