@@ -25,7 +25,7 @@ Lecture notes 11: [Radix-2 Fast Fourier Transforms](Digital_Signal_Processing_Cl
 
 Lecture notes 12: [The Cooley-Tukey and Good-Thomas FFTs (incomplete)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_12;_The_Cooley-Tukey_and_Good-Thomas_FFTs_(Incomplete).pdf)
 
-
+Lecture notes 13: [The Sampling Theorem (Incomplete)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_13;_The_Sampling_Theorem_(Incomplete).pdf)
 
 
 
