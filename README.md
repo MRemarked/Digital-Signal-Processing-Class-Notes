@@ -27,7 +27,7 @@ Lecture notes 12: [The Cooley-Tukey and Good-Thomas FFTs (incomplete)](Digital_S
 
 Lecture notes 13: [The Sampling Theorem (Incomplete)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_13;_The_Sampling_Theorem_(Incomplete).pdf)
 
-Lecutre ntoes 14: [Continuous-time Filtering with Digital Systems: Upsampling and Downsampling]()
+Lecutre ntoes 14: [Continuous-time Filtering with Digital Systems: Upsampling and Downsampling](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_14;_Continuous-time_Filtering_with_Digital_Systems;_upsampling_and_downsampling.pdf)
 
 
 
