@@ -31,4 +31,6 @@ Lecutre notes 14: [Continuous-time Filtering with Digital Systems: Upsampling an
 
 Lecture notes 15: [Multirate Signal Processing and Polyphase representation](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_15;_Multirate_Signal_Processing_and_Polyphase_representations.pdf)
 
+Lecture ntoes 16: [FIR filter design using least-suqares (in class)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_16_(In_Class);_FIR_filter_design_using_least-squares.pdf)
+
 
