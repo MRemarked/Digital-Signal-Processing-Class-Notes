@@ -35,6 +35,6 @@ Lecture notes 16: [FIR filter design using least-squares (in class)](Digital_Sig
 
 Lecture notes 16: [FIR filter design using least-squares](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_16;_FIR_filter_design_using_least-squares.pdf)
 
-
+Lecture notes 17: [FIR filter design (Chebyshev)](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_17;_FIR_filter_design_(Chebyshev).pdf)
 
 
