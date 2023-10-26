@@ -41,4 +41,4 @@ Lecture notes 18 [IIR filter design](Digital_Signal_Processing_Class_Notes/Digit
 
 Lecture notes 19: [Introduction to Adaptive Filtering: ARMA Processes](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_19;_Introduction_to_Adaptive_Filtering;_ARMA_Processes.pdf)
 
-
+Lecture notes 20: [The Wiener Filter](Digital_Signal_Processing_Class_Notes/Digital_Signal_Processing_Lecture_20;_The_Wiener_Filter.pdf)
